@@ -3,9 +3,9 @@
 <br></br>
 # Ringkasan
 - [Tools](#tools)
-- [Executive Summary](Executive-Summary)
+- [Executive Summary](#Executive-Summary)
 - [Hasil Temuan](#hasil-temuan)
-- [Rekomendasi Mitigasi](rekomendasi-mitigasi)
+- [Rekomendasi Mitigasi](#rekomendasi-mitigasi)
 ## Tools
 - forensic_triage.py
 - Operation_Chimera_Student_Pack
